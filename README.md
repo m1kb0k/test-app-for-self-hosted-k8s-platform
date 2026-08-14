@@ -4,7 +4,7 @@ Applications managed through ArgoCD.
 
 ## Structure
 
-apps/
+apps/<br>
 └── nginx/
 
 ## Deployment
